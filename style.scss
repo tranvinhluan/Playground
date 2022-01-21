@@ -391,7 +391,7 @@ body {
         @include flex(stretch, space-between)
     }
     &__item {
-        width: calc(25% -22.5px);
+        width: calc(25% - 22.5px);
     }
 }
 
